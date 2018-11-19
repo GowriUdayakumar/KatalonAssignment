@@ -1,1 +1,2 @@
-# KatalonAssignment
+# KatalonWorkshop
+Katalon Workshop Assignments

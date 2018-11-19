@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_search</name>
+   <tag></tag>
+   <elementGuidId>bbecde1a-6271-4c02-9eb9-61f80be9e3aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ul[@class=&quot;select2-results&quot;]/li/div[@class=&quot;select2-result-label&quot;][contains(text(),&quot;${value}&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ul[@class=&quot;select2-results&quot;]/li/div[@class=&quot;select2-result-label&quot;][contains(text(),&quot;${value}&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

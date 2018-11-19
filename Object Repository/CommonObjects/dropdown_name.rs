@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_name</name>
+   <tag></tag>
+   <elementGuidId>5bbe998f-aa17-4610-a8ff-3e05af7afdef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;${id}&quot;]//following-sibling::select[@name=&quot;${name}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;${id}&quot;]//following-sibling::select[@name=&quot;${name}&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

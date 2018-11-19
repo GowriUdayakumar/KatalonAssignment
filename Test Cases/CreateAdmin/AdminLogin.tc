@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AdminLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>baa834ea-d3ea-4847-b936-a6d54592a929</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.phptravels.net/admin'</defaultValue>
+      <description></description>
+      <id>88983b70-6097-4e1a-9864-9cd007685109</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

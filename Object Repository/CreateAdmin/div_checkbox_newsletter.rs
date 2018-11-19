@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_checkbox_newsletter</name>
+   <tag></tag>
+   <elementGuidId>18a84112-878d-4139-8040-4f0b2603a195</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div//input[@value=&quot;1&quot;]//following-sibling::ins[@class=&quot;iCheck-helper&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div//input[@value=&quot;1&quot;]//following-sibling::ins[@class=&quot;iCheck-helper&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

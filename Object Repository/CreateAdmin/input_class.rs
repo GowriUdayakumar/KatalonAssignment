@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_class</name>
+   <tag></tag>
+   <elementGuidId>5ef079cf-bc89-4165-93ae-518ddf6d044e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;select2-drop&quot;]//input[@class=&quot;select2-input&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;select2-drop&quot;]//input[@class=&quot;select2-input&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
